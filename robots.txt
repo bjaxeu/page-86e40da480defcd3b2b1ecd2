@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-e0b4310ebd.yypic.cn/sitemap.xml
